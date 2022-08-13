@@ -9,3 +9,6 @@ python3 app.py
 
 ## windows
 python app.py
+
+
+This datatable has 11 columns. Name, score1~5_name score1~5_score 
