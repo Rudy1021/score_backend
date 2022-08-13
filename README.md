@@ -1,7 +1,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 # score_backend
-Test front-end httpService/ajax/axios run successfully or not
+This is a tool for testing front-end httpService/ajax/axios run successfully or not
 
 # Usage
 ## mac
