@@ -11,4 +11,4 @@ python3 app.py
 python app.py
 
 
-This datatable has 11 columns. Name, score1~5_name score1~5_score 
+This datatable has 11 columns. Name, score1_name score1_score to score5_name score5_score.
