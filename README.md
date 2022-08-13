@@ -14,4 +14,4 @@ python app.py
 This datatable has 11 columns. Name, score1_name score1_score to score5_name score5_score.
 
 # requirement
-see [here] (https://github.com/Rudy1021/score_backend/blob/main/requirement.txt)
+see [here](https://github.com/Rudy1021/score_backend/blob/main/requirement.txt)
